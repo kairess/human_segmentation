@@ -11,3 +11,8 @@ Human segmentation using CNN, U-Net architecture.
 - keras
 - matplotlib
 - numpy
+
+## Dataset
+HumanParsing Dataset https://github.com/lemondan/HumanParsing-Dataset  
+
+Preprocessed Dataset https://www.kaggle.com/kairess/human-segmentation  
